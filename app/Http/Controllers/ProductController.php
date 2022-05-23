@@ -61,7 +61,7 @@ class ProductController extends Controller
     {
         return Product::find($id);
     }
-    
+
     /**
      * Update the specified resource in storage.
      *
